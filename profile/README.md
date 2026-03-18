@@ -51,3 +51,15 @@ Happy Robocoding! 🤖⌨️
 [Robocode Tank Royale]: https://github.com/robocode-dev/tank-royale
 [Tank Royale docs]: https://robocode-dev.github.io/tank-royale/
 [Tank Royale releases]: https://github.com/robocode-dev/tank-royale/releases
+
+---
+
+## 💖 Thank you, JetBrains, for supporting Open Source
+
+Thank you, JetBrains, for supporting non-commercial Open Source projects by providing licenses for [Open Source development], including Robocode. ❤️
+
+<a href="https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support">
+<img height="80" src="https://raw.githubusercontent.com/robocode-dev/.github/main/profile/jetbrains-logo.svg" alt="JetBrains logo.">
+</a>
+
+[Open Source development]: https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support
